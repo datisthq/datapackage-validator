@@ -51,12 +51,12 @@ jobs:
           node-version-file: package.json
       - name: Install Dependencies
         run: pnpm install:ci
-      - name: Build Site
+      - name: Build Application
         run: pnpm build
-      - name: Upload Site
+      - name: Upload Application
         uses: actions/upload-pages-artifact@v3
         with:
           path: build/client
-      - name: Deploy Site
+      - name: Deploy Application
         id: deployment
         uses: actions/deploy-pages@v4
