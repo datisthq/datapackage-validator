@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-11-10 07:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: ru\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: components/Report/Error/Data.tsx:8
+#: components/Report/Error/Metadata.tsx:11
+#: routes/home/Dialog.tsx:26
+#. placeholder {0}: error.message
+#. placeholder {0}: props.error.message
+msgid "{0}"
+msgstr "{0}"
+
+#: components/Report/Report.tsx:48
+msgid "{type}"
+msgstr "{type}"
+
+#: components/Report/Error/Cell.tsx:38
+msgid "A required cell in field"
+msgstr "Обязательная ячейка в поле"
+
+#: components/Report/Error/Fields.tsx:14
+msgid "are missing"
+msgstr "отсутствуют"
+
+#: components/Report/Error/Fields.tsx:28
+msgid "are not expected"
+msgstr "не ожидаются"
+
+#: components/Report/Error/Row.tsx:12
+msgid "are not unique"
+msgstr "не уникальны"
+
+#: components/Report/Error/Metadata.tsx:11
+msgid "at"
+msgstr "в"
+
+#: components/Report/Error/Field.tsx:12
+#: components/Report/Error/Field.tsx:31
+#: components/Report/Error/File.tsx:12
+#: components/Report/Error/File.tsx:27
+#: components/Report/Error/File.tsx:42
+msgid "but it is actually"
+msgstr "но на самом деле"
+
+#: components/Layout/Language.tsx:66
+msgid "Change Language"
+msgstr "Изменить язык"
+
+#: components/Layout/Theme.tsx:23
+msgid "Change Theme"
+msgstr "Изменить тему"
+
+#: components/Dialog/Dialog.tsx:52
+msgid "Close"
+msgstr "Закрыть"
+
+#: components/Layout/Theme.tsx:51
+msgid "Dark"
+msgstr "Тёмная"
+
+#: components/Layout/Breadcrumbs.tsx:10
+msgid "Data Package"
+msgstr "Пакет данных"
+
+#: components/Form/Form.tsx:144
+msgid "Data Package File"
+msgstr "Файл пакета данных"
+
+#: components/Form/Form.tsx:185
+msgid "Data Package JSON"
+msgstr "JSON пакета данных"
+
+#: components/Form/Form.tsx:99
+msgid "Data Package URL"
+msgstr "URL пакета данных"
+
+#: routes/home/route.tsx:12
+msgid "Data Package Validator"
+msgstr "Валидатор пакетов данных"
+
+#: components/Dialog/Dialog.tsx:37
+msgid "Dialog"
+msgstr "Диалог"
+
+#: components/Report/Error/Cell.tsx:238
+#: components/Report/Error/Cell.tsx:314
+msgid "does not match the"
+msgstr "не соответствует"
+
+#: components/Form/Form.tsx:97
+msgid "Enter data package URL"
+msgstr "Введите URL пакета данных"
+
+#: components/System/Error.tsx:10
+msgid "error404"
+msgstr "Страница не найдена"
+
+#: components/System/Error.tsx:10
+msgid "error500"
+msgstr "Внутренняя ошибка сервера"
+
+#: components/Report/Report.tsx:37
+msgid "Errors"
+msgstr "Ошибки"
+
+#: components/Report/Error/Cell.tsx:158
+msgid "exclusive maximum"
+msgstr "исключительный максимум"
+
+#: components/Report/Error/Cell.tsx:130
+msgid "exclusive minimum"
+msgstr "исключительный минимум"
+
+#: components/Report/Error/Field.tsx:23
+msgid "Field"
+msgstr "Поле"
+
+#: components/Report/Error/Field.tsx:8
+msgid "Field name"
+msgstr "Имя поля"
+
+#: components/Form/Form.tsx:39
+msgid "File"
+msgstr "Файл"
+
+#: components/Report/Error/File.tsx:38
+msgid "File encoding"
+msgstr "Кодировка файла"
+
+#: components/Report/Error/File.tsx:23
+msgid "File hash"
+msgstr "Хэш файла"
+
+#: components/Form/Form.tsx:121
+msgid "File is required"
+msgstr "Файл обязателен"
+
+#: components/Report/Error/File.tsx:8
+msgid "File size"
+msgstr "Размер файла"
+
+#: components/Report/Error/ForeignKey.tsx:8
+msgid "Foreign key violation in field(s)"
+msgstr "Нарушение внешнего ключа в поле(ях)"
+
+#: components/Report/Error/Cell.tsx:14
+#: components/Report/Error/Cell.tsx:62
+#: components/Report/Error/Cell.tsx:90
+#: components/Report/Error/Cell.tsx:118
+#: components/Report/Error/Cell.tsx:146
+#: components/Report/Error/Cell.tsx:174
+#: components/Report/Error/Cell.tsx:202
+#: components/Report/Error/Cell.tsx:230
+#: components/Report/Error/Cell.tsx:256
+#: components/Report/Error/Cell.tsx:278
+#: components/Report/Error/Cell.tsx:306
+msgid "in field"
+msgstr "в поле"
+
+#: routes/home/Dialog.tsx:27
+msgid "Invalid data package"
+msgstr "Неверный пакет данных"
+
+#: components/Form/Form.tsx:134
+msgid "Invalid JSON file"
+msgstr "Неверный файл JSON"
+
+#: components/Form/Form.tsx:169
+msgid "Invalid JSON format"
+msgstr "Неверный формат JSON"
+
+#: components/Form/Form.tsx:83
+msgid "Invalid URL format"
+msgstr "Неверный формат URL"
+
+#: components/Report/Error/Field.tsx:8
+#: components/Report/Error/Field.tsx:27
+#: components/Report/Error/File.tsx:8
+#: components/Report/Error/File.tsx:23
+#: components/Report/Error/File.tsx:38
+msgid "is expected to be"
+msgstr "ожидается"
+
+#: components/Report/Error/Cell.tsx:126
+#: components/Report/Error/Cell.tsx:154
+msgid "is less or equal to"
+msgstr "меньше или равно"
+
+#: components/Report/Error/Cell.tsx:70
+#: components/Report/Error/Cell.tsx:182
+msgid "is less than"
+msgstr "меньше чем"
+
+#: components/Report/Error/Cell.tsx:46
+msgid "is missing"
+msgstr "отсутствует"
+
+#: components/Report/Error/Cell.tsx:98
+#: components/Report/Error/Cell.tsx:210
+msgid "is more than"
+msgstr "больше чем"
+
+#: components/Report/Error/Cell.tsx:22
+msgid "is not"
+msgstr "не"
+
+#: components/Report/Error/Cell.tsx:286
+msgid "is not in the allowed"
+msgstr "не входит в разрешённые"
+
+#: components/Report/Error/Cell.tsx:264
+msgid "is not unique"
+msgstr "не уникальна"
+
+#: components/Report/Error/Cell.tsx:170
+#: components/Report/Error/Cell.tsx:198
+msgid "Length of the cell"
+msgstr "Длина ячейки"
+
+#: components/Layout/Theme.tsx:42
+msgid "Light"
+msgstr "Светлая"
+
+#: components/Report/Error/Cell.tsx:102
+#: components/Report/Error/Cell.tsx:214
+msgid "maximum"
+msgstr "максимальное"
+
+#: components/Report/Error/Cell.tsx:74
+#: components/Report/Error/Cell.tsx:186
+msgid "minimum"
+msgstr "минимальное"
+
+#: components/Report/Error/Cell.tsx:18
+#: components/Report/Error/Cell.tsx:42
+#: components/Report/Error/Cell.tsx:66
+#: components/Report/Error/Cell.tsx:94
+#: components/Report/Error/Cell.tsx:122
+#: components/Report/Error/Cell.tsx:150
+#: components/Report/Error/Cell.tsx:178
+#: components/Report/Error/Cell.tsx:206
+#: components/Report/Error/Cell.tsx:234
+#: components/Report/Error/Cell.tsx:260
+#: components/Report/Error/Cell.tsx:282
+#: components/Report/Error/Cell.tsx:310
+msgid "of row"
+msgstr "строки"
+
+#: components/System/Error.tsx:9
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: components/Form/Form.tsx:183
+msgid "Paste data package JSON"
+msgstr "Вставьте JSON пакета данных"
+
+#: components/Report/Error/Cell.tsx:242
+msgid "pattern"
+msgstr "шаблон"
+
+#: components/Form/Form.tsx:142
+msgid "Select data package file"
+msgstr "Выберите файл пакета данных"
+
+#: components/Layout/Share.tsx:45
+msgid "Share"
+msgstr "Поделиться"
+
+#: components/Layout/Share.tsx:34
+msgid "Share Page"
+msgstr "Поделиться страницей"
+
+#: components/System/Error.tsx:9
+msgid "Something went wrong"
+msgstr "Что-то пошло не так"
+
+#: components/System/Error.tsx:21
+msgid "Take me back to home page"
+msgstr "Вернуться на главную"
+
+#: components/Form/Form.tsx:50
+msgid "Text"
+msgstr "Текст"
+
+#: components/Form/Form.tsx:167
+msgid "Text is required"
+msgstr "Текст обязателен"
+
+#: components/Report/Error/Row.tsx:8
+msgid "The cell values of the fields"
+msgstr "Значения ячеек полей"
+
+#: components/Report/Error/Fields.tsx:10
+#: components/Report/Error/Fields.tsx:24
+msgid "The fields"
+msgstr "Поля"
+
+#: components/Layout/Banner.tsx:12
+msgid "This <0>validator</0> checks only the <1>metadata of your Data Package</1>. For data validation use one of the <2>Frictionless libraries</2>."
+msgstr "Этот <0>валидатор</0> проверяет только <1>метаданные вашего Data Package</1>. Для проверки данных используйте одну из <2>библиотек Frictionless</2>."
+
+#: components/Form/Form.tsx:28
+msgid "URL"
+msgstr "URL"
+
+#: components/Form/Form.tsx:77
+msgid "URL is required"
+msgstr "URL обязателен"
+
+#: routes/home/Dialog.tsx:39
+msgid "Valid data package"
+msgstr "Корректный пакет данных"
+
+#: components/Form/Form.tsx:212
+msgid "Validate Data Package"
+msgstr "Проверить пакет данных"
+
+#: routes/home/route.tsx:15
+msgid "Validate metadata of data packages quickly and easily. Free online tool for validating metadata of data packages and tabular data packages"
+msgstr "Проверяйте метаданные пакетов данных быстро и легко. Бесплатный онлайн-инструмент для проверки метаданных пакетов данных и табличных пакетов данных"
+
+#: routes/home/Dialog.tsx:38
+msgid "Validating data package..."
+msgstr "Проверка пакета данных..."
+
+#: components/Layout/Breadcrumbs.tsx:13
+msgid "Validator"
+msgstr "Валидатор"
+
+#: components/Report/Error/Cell.tsx:10
+#: components/Report/Error/Cell.tsx:58
+#: components/Report/Error/Cell.tsx:86
+#: components/Report/Error/Cell.tsx:114
+#: components/Report/Error/Cell.tsx:142
+#: components/Report/Error/Cell.tsx:226
+#: components/Report/Error/Cell.tsx:252
+#: components/Report/Error/Cell.tsx:274
+#: components/Report/Error/Cell.tsx:302
+msgid "Value of the cell"
+msgstr "Значение ячейки"
+
+#: components/Report/Error/Cell.tsx:290
+msgid "values"
+msgstr "значения"
+
+#: components/Layout/Repository.tsx:14
+msgid "View Repository"
+msgstr "Посмотреть репозиторий"

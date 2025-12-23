@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-11-10 07:34+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: it\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#: components/Report/Error/Data.tsx:8
+#: components/Report/Error/Metadata.tsx:11
+#: routes/home/Dialog.tsx:26
+#. placeholder {0}: error.message
+#. placeholder {0}: props.error.message
+msgid "{0}"
+msgstr "{0}"
+
+#: components/Report/Report.tsx:48
+msgid "{type}"
+msgstr "{type}"
+
+#: components/Report/Error/Cell.tsx:38
+msgid "A required cell in field"
+msgstr "Una cella richiesta nel campo"
+
+#: components/Report/Error/Fields.tsx:14
+msgid "are missing"
+msgstr "sono mancanti"
+
+#: components/Report/Error/Fields.tsx:28
+msgid "are not expected"
+msgstr "non sono previste"
+
+#: components/Report/Error/Row.tsx:12
+msgid "are not unique"
+msgstr "non sono univoci"
+
+#: components/Report/Error/Metadata.tsx:11
+msgid "at"
+msgstr "a"
+
+#: components/Report/Error/Field.tsx:12
+#: components/Report/Error/Field.tsx:31
+#: components/Report/Error/File.tsx:12
+#: components/Report/Error/File.tsx:27
+#: components/Report/Error/File.tsx:42
+msgid "but it is actually"
+msgstr "ma in realtà è"
+
+#: components/Layout/Language.tsx:66
+msgid "Change Language"
+msgstr "Cambia lingua"
+
+#: components/Layout/Theme.tsx:23
+msgid "Change Theme"
+msgstr "Cambia tema"
+
+#: components/Dialog/Dialog.tsx:52
+msgid "Close"
+msgstr "Chiudi"
+
+#: components/Layout/Theme.tsx:51
+msgid "Dark"
+msgstr "Scuro"
+
+#: components/Layout/Breadcrumbs.tsx:10
+msgid "Data Package"
+msgstr "Pacchetto di dati"
+
+#: components/Form/Form.tsx:144
+msgid "Data Package File"
+msgstr "File Data Package"
+
+#: components/Form/Form.tsx:185
+msgid "Data Package JSON"
+msgstr "JSON Data Package"
+
+#: components/Form/Form.tsx:99
+msgid "Data Package URL"
+msgstr "URL Data Package"
+
+#: routes/home/route.tsx:12
+msgid "Data Package Validator"
+msgstr "Validatore di Data Package"
+
+#: components/Dialog/Dialog.tsx:37
+msgid "Dialog"
+msgstr "Finestra di dialogo"
+
+#: components/Report/Error/Cell.tsx:238
+#: components/Report/Error/Cell.tsx:314
+msgid "does not match the"
+msgstr "non corrisponde a"
+
+#: components/Form/Form.tsx:97
+msgid "Enter data package URL"
+msgstr "Inserisci l'URL del data package"
+
+#: components/System/Error.tsx:10
+msgid "error404"
+msgstr "Pagina non trovata"
+
+#: components/System/Error.tsx:10
+msgid "error500"
+msgstr "Si è verificato un errore interno del server"
+
+#: components/Report/Report.tsx:37
+msgid "Errors"
+msgstr "Errori"
+
+#: components/Report/Error/Cell.tsx:158
+msgid "exclusive maximum"
+msgstr "massimo esclusivo"
+
+#: components/Report/Error/Cell.tsx:130
+msgid "exclusive minimum"
+msgstr "minimo esclusivo"
+
+#: components/Report/Error/Field.tsx:23
+msgid "Field"
+msgstr "Campo"
+
+#: components/Report/Error/Field.tsx:8
+msgid "Field name"
+msgstr "Nome campo"
+
+#: components/Form/Form.tsx:39
+msgid "File"
+msgstr "File"
+
+#: components/Report/Error/File.tsx:38
+msgid "File encoding"
+msgstr "Codifica del file"
+
+#: components/Report/Error/File.tsx:23
+msgid "File hash"
+msgstr "Hash del file"
+
+#: components/Form/Form.tsx:121
+msgid "File is required"
+msgstr "Il file è obbligatorio"
+
+#: components/Report/Error/File.tsx:8
+msgid "File size"
+msgstr "Dimensione del file"
+
+#: components/Report/Error/ForeignKey.tsx:8
+msgid "Foreign key violation in field(s)"
+msgstr "Violazione della chiave esterna nel/i campo/i"
+
+#: components/Report/Error/Cell.tsx:14
+#: components/Report/Error/Cell.tsx:62
+#: components/Report/Error/Cell.tsx:90
+#: components/Report/Error/Cell.tsx:118
+#: components/Report/Error/Cell.tsx:146
+#: components/Report/Error/Cell.tsx:174
+#: components/Report/Error/Cell.tsx:202
+#: components/Report/Error/Cell.tsx:230
+#: components/Report/Error/Cell.tsx:256
+#: components/Report/Error/Cell.tsx:278
+#: components/Report/Error/Cell.tsx:306
+msgid "in field"
+msgstr "nel campo"
+
+#: routes/home/Dialog.tsx:27
+msgid "Invalid data package"
+msgstr "Pacchetto di dati non valido"
+
+#: components/Form/Form.tsx:134
+msgid "Invalid JSON file"
+msgstr "File JSON non valido"
+
+#: components/Form/Form.tsx:169
+msgid "Invalid JSON format"
+msgstr "Formato JSON non valido"
+
+#: components/Form/Form.tsx:83
+msgid "Invalid URL format"
+msgstr "Formato URL non valido"
+
+#: components/Report/Error/Field.tsx:8
+#: components/Report/Error/Field.tsx:27
+#: components/Report/Error/File.tsx:8
+#: components/Report/Error/File.tsx:23
+#: components/Report/Error/File.tsx:38
+msgid "is expected to be"
+msgstr "è previsto che sia"
+
+#: components/Report/Error/Cell.tsx:126
+#: components/Report/Error/Cell.tsx:154
+msgid "is less or equal to"
+msgstr "è minore o uguale a"
+
+#: components/Report/Error/Cell.tsx:70
+#: components/Report/Error/Cell.tsx:182
+msgid "is less than"
+msgstr "è minore di"
+
+#: components/Report/Error/Cell.tsx:46
+msgid "is missing"
+msgstr "manca"
+
+#: components/Report/Error/Cell.tsx:98
+#: components/Report/Error/Cell.tsx:210
+msgid "is more than"
+msgstr "è maggiore di"
+
+#: components/Report/Error/Cell.tsx:22
+msgid "is not"
+msgstr "non è"
+
+#: components/Report/Error/Cell.tsx:286
+msgid "is not in the allowed"
+msgstr "non è tra i valori permessi"
+
+#: components/Report/Error/Cell.tsx:264
+msgid "is not unique"
+msgstr "non è univoco"
+
+#: components/Report/Error/Cell.tsx:170
+#: components/Report/Error/Cell.tsx:198
+msgid "Length of the cell"
+msgstr "Lunghezza della cella"
+
+#: components/Layout/Theme.tsx:42
+msgid "Light"
+msgstr "Chiaro"
+
+#: components/Report/Error/Cell.tsx:102
+#: components/Report/Error/Cell.tsx:214
+msgid "maximum"
+msgstr "massimo"
+
+#: components/Report/Error/Cell.tsx:74
+#: components/Report/Error/Cell.tsx:186
+msgid "minimum"
+msgstr "minimo"
+
+#: components/Report/Error/Cell.tsx:18
+#: components/Report/Error/Cell.tsx:42
+#: components/Report/Error/Cell.tsx:66
+#: components/Report/Error/Cell.tsx:94
+#: components/Report/Error/Cell.tsx:122
+#: components/Report/Error/Cell.tsx:150
+#: components/Report/Error/Cell.tsx:178
+#: components/Report/Error/Cell.tsx:206
+#: components/Report/Error/Cell.tsx:234
+#: components/Report/Error/Cell.tsx:260
+#: components/Report/Error/Cell.tsx:282
+#: components/Report/Error/Cell.tsx:310
+msgid "of row"
+msgstr "della riga"
+
+#: components/System/Error.tsx:9
+msgid "Page not found"
+msgstr "Pagina non trovata"
+
+#: components/Form/Form.tsx:183
+msgid "Paste data package JSON"
+msgstr "Incolla il JSON del data package"
+
+#: components/Report/Error/Cell.tsx:242
+msgid "pattern"
+msgstr "schema"
+
+#: components/Form/Form.tsx:142
+msgid "Select data package file"
+msgstr "Seleziona il file data package"
+
+#: components/Layout/Share.tsx:45
+msgid "Share"
+msgstr "Condividi"
+
+#: components/Layout/Share.tsx:34
+msgid "Share Page"
+msgstr "Condividi pagina"
+
+#: components/System/Error.tsx:9
+msgid "Something went wrong"
+msgstr "Qualcosa è andato storto"
+
+#: components/System/Error.tsx:21
+msgid "Take me back to home page"
+msgstr "Torna alla pagina principale"
+
+#: components/Form/Form.tsx:50
+msgid "Text"
+msgstr "Testo"
+
+#: components/Form/Form.tsx:167
+msgid "Text is required"
+msgstr "Il testo è obbligatorio"
+
+#: components/Report/Error/Row.tsx:8
+msgid "The cell values of the fields"
+msgstr "I valori delle celle dei campi"
+
+#: components/Report/Error/Fields.tsx:10
+#: components/Report/Error/Fields.tsx:24
+msgid "The fields"
+msgstr "I campi"
+
+#: components/Layout/Banner.tsx:12
+msgid "This <0>validator</0> checks only the <1>metadata of your Data Package</1>. For data validation use one of the <2>Frictionless libraries</2>."
+msgstr "Questo <0>validatore</0> controlla solo i <1>metadati del tuo Pacchetto Dati</1>. Per la validazione dei dati usa una delle <2>librerie Frictionless</2>."
+
+#: components/Form/Form.tsx:28
+msgid "URL"
+msgstr "URL"
+
+#: components/Form/Form.tsx:77
+msgid "URL is required"
+msgstr "L'URL è obbligatorio"
+
+#: routes/home/Dialog.tsx:39
+msgid "Valid data package"
+msgstr "Pacchetto dati valido"
+
+#: components/Form/Form.tsx:212
+msgid "Validate Data Package"
+msgstr "Valida Data Package"
+
+#: routes/home/route.tsx:15
+msgid "Validate metadata of data packages quickly and easily. Free online tool for validating metadata of data packages and tabular data packages"
+msgstr "Convalida i metadati dei pacchetti di dati in modo rapido e semplice. Strumento online gratuito per la convalida dei metadati di pacchetti di dati e pacchetti di dati tabellari"
+
+#: routes/home/Dialog.tsx:38
+msgid "Validating data package..."
+msgstr "Validazione del pacchetto dati..."
+
+#: components/Layout/Breadcrumbs.tsx:13
+msgid "Validator"
+msgstr "Validatore"
+
+#: components/Report/Error/Cell.tsx:10
+#: components/Report/Error/Cell.tsx:58
+#: components/Report/Error/Cell.tsx:86
+#: components/Report/Error/Cell.tsx:114
+#: components/Report/Error/Cell.tsx:142
+#: components/Report/Error/Cell.tsx:226
+#: components/Report/Error/Cell.tsx:252
+#: components/Report/Error/Cell.tsx:274
+#: components/Report/Error/Cell.tsx:302
+msgid "Value of the cell"
+msgstr "Valore della cella"
+
+#: components/Report/Error/Cell.tsx:290
+msgid "values"
+msgstr "valori"
+
+#: components/Layout/Repository.tsx:14
+msgid "View Repository"
+msgstr "Visualizza repository"
