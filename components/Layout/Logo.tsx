@@ -1,4 +1,4 @@
-import { Anchor, Box } from "@mantine/core"
+import { Anchor } from "@mantine/core"
 import { useComputedColorScheme } from "@mantine/core"
 import { Link } from "react-router"
 // @ts-ignore
